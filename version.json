@@ -1,5 +1,5 @@
 {
-  "version": "1.1.9",
-  "release_notes": "Added integrated Agentic Chat tab in Terminal Utilities drawer with diagnostic skills shortcuts, command reviews, and auto-execution gates.",
-  "download_url": "https://github.com/mdrealofficial/kryon-releases/releases/download/v1.1.9/Kryon.app.zip"
+  "version": "1.1.10",
+  "release_notes": "Fixed PHP syntax/parse error in AiController.php on the backend.",
+  "download_url": "https://github.com/mdrealofficial/kryon-releases/releases/download/v1.1.10/Kryon.app.zip"
 }
