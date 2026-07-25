@@ -1,5 +1,5 @@
 {
-  "version": "1.1.15",
-  "release_notes": "Added multi-image submission, drag & drop support, custom keyboard submit (Shift/Cmd+Enter for newlines), and a button to cancel/stop the agent.",
-  "download_url": "https://github.com/mdrealofficial/kryon-releases/releases/download/v1.1.15/Kryon.app.zip"
+  "version": "1.1.16",
+  "release_notes": "Cleaned up static analysis flow with strict curly braces syntax formatting.",
+  "download_url": "https://github.com/mdrealofficial/kryon-releases/releases/download/v1.1.16/Kryon.app.zip"
 }
