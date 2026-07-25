@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
-  "release_notes": "Implemented terminal onResize handler hook to sync window resizing events with the remote SSH PTY channel for correct layout scaling (e.g. htop/vim/nano).",
-  "download_url": "https://github.com/mdrealofficial/kryon-releases/releases/download/v1.0.3/Kryon.app.zip"
+  "version": "1.0.4",
+  "release_notes": "Synchronized internal UpdaterService.currentVersion constant and implemented dynamic macOS app bundle location path resolution for update installations.",
+  "download_url": "https://github.com/mdrealofficial/kryon-releases/releases/download/v1.0.4/Kryon.app.zip"
 }
