@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "release_notes": "Added a premium responsive collapsible sidebar mode with tooltips, centered notification badges, active node overlays, and moved the Check for Updates launcher into the bottom sidebar profile.",
-  "download_url": "https://github.com/mdrealofficial/kryon-releases/releases/download/v1.0.1/Kryon.app.zip"
+  "version": "1.0.2",
+  "release_notes": "Relocated the updates launcher to the bottom profile sidebar and added a post-update validation dialog popup showing update success or failure details.",
+  "download_url": "https://github.com/mdrealofficial/kryon-releases/releases/download/v1.0.2/Kryon.app.zip"
 }
