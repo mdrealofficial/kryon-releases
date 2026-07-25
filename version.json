@@ -1,5 +1,5 @@
 {
-  "version": "1.1.10",
-  "release_notes": "Fixed PHP syntax/parse error in AiController.php on the backend.",
-  "download_url": "https://github.com/mdrealofficial/kryon-releases/releases/download/v1.1.10/Kryon.app.zip"
+  "version": "1.1.11",
+  "release_notes": "Implemented server-side API routing logic for Agentic Chat to support masked credentials.",
+  "download_url": "https://github.com/mdrealofficial/kryon-releases/releases/download/v1.1.11/Kryon.app.zip"
 }
