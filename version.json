@@ -1,5 +1,5 @@
 {
-  "version": "1.1.12",
-  "release_notes": "Implemented custom models loading and dropdown selection for custom OpenAI compatible providers.",
-  "download_url": "https://github.com/mdrealofficial/kryon-releases/releases/download/v1.1.12/Kryon.app.zip"
+  "version": "1.1.13",
+  "release_notes": "Added submit-on-enter for AI chat prompt, and mirrored AI agent shell command execution to the visual terminal.",
+  "download_url": "https://github.com/mdrealofficial/kryon-releases/releases/download/v1.1.13/Kryon.app.zip"
 }
