@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "release_notes": "Added backend-driven Connection Test functionality to verify API credentials, endpoints and model overrides for OpenAI, Anthropic, Gemini, and Compatible providers.",
-  "download_url": "https://github.com/mdrealofficial/kryon-releases/releases/download/v1.1.0/Kryon.app.zip"
+  "version": "1.1.3",
+  "release_notes": "Fix AI key configuration status updates and clear error state upon saving/testing credentials.",
+  "download_url": "https://github.com/mdrealofficial/kryon-releases/releases/download/v1.1.3/Kryon.app.zip"
 }
