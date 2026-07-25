@@ -1,5 +1,5 @@
 {
-  "version": "1.1.5",
-  "release_notes": "Added dynamic table schema checking and automatic migration triggers directly within the AI Controller.",
-  "download_url": "https://github.com/mdrealofficial/kryon-releases/releases/download/v1.1.5/Kryon.app.zip"
+  "version": "1.1.6",
+  "release_notes": "Isolated AI settings loading errors to protect the main Dashboard status banner, and added auto-migration triggers.",
+  "download_url": "https://github.com/mdrealofficial/kryon-releases/releases/download/v1.1.6/Kryon.app.zip"
 }
