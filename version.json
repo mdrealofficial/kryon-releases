@@ -1,5 +1,5 @@
 {
-  "version": "1.1.24",
-  "release_notes": "Added Browse Local Folder dialog option to Step 3 of the Mount Selector Webview.",
-  "download_url": "https://github.com/mdrealofficial/kryon-releases/releases/download/v1.1.24/Kryon.app.zip"
+  "version": "1.1.25",
+  "release_notes": "Implemented parent workspace folder directory matching for hierarchical folder association, and increased file open delay to 2500ms.",
+  "download_url": "https://github.com/mdrealofficial/kryon-releases/releases/download/v1.1.25/Kryon.app.zip"
 }
