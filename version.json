@@ -1,5 +1,5 @@
 {
-  "version": "1.1.23",
-  "release_notes": "Fixed Next button click event listener in Wizard browser step.",
-  "download_url": "https://github.com/mdrealofficial/kryon-releases/releases/download/v1.1.23/Kryon.app.zip"
+  "version": "1.1.24",
+  "release_notes": "Added Browse Local Folder dialog option to Step 3 of the Mount Selector Webview.",
+  "download_url": "https://github.com/mdrealofficial/kryon-releases/releases/download/v1.1.24/Kryon.app.zip"
 }
