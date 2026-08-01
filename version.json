@@ -1,5 +1,5 @@
 {
-  "version": "1.1.22",
-  "release_notes": "Added missing icon to the Mount Selector webview sidebar panel.",
-  "download_url": "https://github.com/mdrealofficial/kryon-releases/releases/download/v1.1.22/Kryon.app.zip"
+  "version": "1.1.23",
+  "release_notes": "Fixed Next button click event listener in Wizard browser step.",
+  "download_url": "https://github.com/mdrealofficial/kryon-releases/releases/download/v1.1.23/Kryon.app.zip"
 }
