@@ -1,5 +1,5 @@
 {
-  "version": "1.1.17",
-  "release_notes": "Implemented interactive Webview remote folder/file mount path selector for VS Code / Antigravity editor.",
-  "download_url": "https://github.com/mdrealofficial/kryon-releases/releases/download/v1.1.17/Kryon.app.zip"
+  "version": "1.1.18",
+  "release_notes": "Added missing icon metadata to VS Code remote servers view list.",
+  "download_url": "https://github.com/mdrealofficial/kryon-releases/releases/download/v1.1.18/Kryon.app.zip"
 }
