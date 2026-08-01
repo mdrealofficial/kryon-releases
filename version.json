@@ -1,5 +1,5 @@
 {
-  "version": "1.1.25",
-  "release_notes": "Implemented parent workspace folder directory matching for hierarchical folder association, and increased file open delay to 2500ms.",
-  "download_url": "https://github.com/mdrealofficial/kryon-releases/releases/download/v1.1.25/Kryon.app.zip"
+  "version": "1.1.26",
+  "release_notes": "Resolved missing icon warning in vscode_extension/package.json.",
+  "download_url": "https://github.com/mdrealofficial/kryon-releases/releases/download/v1.1.26/Kryon.app.zip"
 }
