@@ -1,5 +1,5 @@
 {
-  "version": "1.1.19",
-  "release_notes": "Implemented support for selecting and replacing/updating existing workspace folders inside the Mount Selector.",
-  "download_url": "https://github.com/mdrealofficial/kryon-releases/releases/download/v1.1.19/Kryon.app.zip"
+  "version": "1.1.20",
+  "release_notes": "Relocated the HTML Mount Selector file tree explorer to the VS Code sidebar view panel.",
+  "download_url": "https://github.com/mdrealofficial/kryon-releases/releases/download/v1.1.20/Kryon.app.zip"
 }
