@@ -1,5 +1,5 @@
 {
-  "version": "1.1.21",
-  "release_notes": "Implemented step-by-step wizard wizard (Mount Type -> Browse -> Associate) inside the Mount Selector Webview.",
-  "download_url": "https://github.com/mdrealofficial/kryon-releases/releases/download/v1.1.21/Kryon.app.zip"
+  "version": "1.1.22",
+  "release_notes": "Added missing icon to the Mount Selector webview sidebar panel.",
+  "download_url": "https://github.com/mdrealofficial/kryon-releases/releases/download/v1.1.22/Kryon.app.zip"
 }
